@@ -71,7 +71,6 @@ body, html{
 .kitchen2{
     display: flex;
   padding-top: 50px;
-  align-items: center;
   justify-content: space-between;
 }
 
@@ -537,7 +536,7 @@ strong{
 
 
     .swiper{
-        margin-top: 350px;
+        margin-top: 400px;
     }
 
 
